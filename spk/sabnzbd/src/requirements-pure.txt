@@ -38,5 +38,5 @@ requests_oauthlib==2.0.0
 sgmllib3k==1.0.0
 #six==1.17.0                    ==> python312
 tempora==5.8.1
-urllib3==2.5.0
+urllib3==2.6.3
 zc_lockfile==4.0
