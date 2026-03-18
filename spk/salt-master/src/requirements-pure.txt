@@ -26,7 +26,7 @@ packaging==24.0
 #pip                            ==> python312
 portend==3.1.0
 pycparser==2.21
-pyOpenSSL==24.0.0
+pyOpenSSL==26.0.0
 python_dateutil==2.8.2
 python_gnupg==0.5.2
 pytz==2024.1
