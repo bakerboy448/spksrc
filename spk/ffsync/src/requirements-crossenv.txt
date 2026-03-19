@@ -2,7 +2,7 @@
 
 cffi==2.0.0
 charset_normalizer==3.4.4
-cryptography==44.0.3
+cryptography==46.0.5
 #greenlet                   ==> supported version depends on gcc version
 mysqlclient==2.1.1
 SQLAlchemy==1.4.46
