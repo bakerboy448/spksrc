@@ -40,7 +40,7 @@ construct==2.10.68
 cronsim==2.7
 defusedxml==0.7.1
 dnspython==2.8.0
-ecdsa==0.19.1
+ecdsa==0.19.2
 envs==1.4
 fnvhash==0.2.1
 gTTS==2.5.3
@@ -79,7 +79,7 @@ python_didl_lite==1.4.1
 python_jose==3.5.0
 python_slugify==8.0.4
 pytz==2025.2
-requests==2.32.5
+requests==2.33.0
 requests_toolbelt==1.0.0
 rich==10.16.2
 rsa==4.9
