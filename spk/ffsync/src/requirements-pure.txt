@@ -20,7 +20,7 @@ pyfxa==0.8.1
 PyJWT==2.10.1
 pyramid==1.10.8
 pytest==8.3.5
-requests==2.32.5
+requests==2.33.0
 #setuptools                 ==> python312
 testfixtures==10.0.0
 tokenlib==2.0.0
