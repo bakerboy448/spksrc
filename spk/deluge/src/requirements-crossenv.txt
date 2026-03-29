@@ -1,7 +1,7 @@
 # Generated using the requirements script on June 2, 2025
 
 cffi==1.17.1
-cryptography==45.0.3
+cryptography==46.0.6
 MarkupSafe==3.0.2
 #pillow                 ==> python/pillow
 #rencode                ==> python/rencode
