@@ -21,7 +21,7 @@ bcrypt==5.0.0
 # https://docs.rs/openssl/latest/openssl/#automatic
 #  ENV += OPENSSL_LIB_DIR=$(STAGING_INSTALL_PREFIX)/lib/
 #  ENV += OPENSSL_INCLUDE_DIR=$(STAGING_INSTALL_PREFIX)/include/
-cryptography==46.0.1
+cryptography==46.0.6
 
 # Requirement for cryptography
 cffi==1.17.1
@@ -79,7 +79,7 @@ PyYAML==6.0.3
 
 # [ujson]
 #   - Require setuptools-scm in cross/python3* crossenv
-ujson==5.11.0
+ujson==5.12.0
 
 # [webrtcvad]
 # webrtcvad==2.0.10           # requires unreleased version at specific commit for qoriq arch
