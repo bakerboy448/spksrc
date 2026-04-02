@@ -3,7 +3,7 @@ gracenote2epg==1.6.0
 idna==3.10
 langdetect==1.0.9
 polib==1.2.0
-requests==2.32.4
+requests==2.33.0
 urllib3==2.5.0
 
 # Additional wheels for gracenote2epg[full] >= 1.6.0
