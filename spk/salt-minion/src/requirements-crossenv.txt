@@ -2,9 +2,9 @@
 # https://github.com/saltstack/salt/blob/v3007.11/requirements/static/pkg/py3.12/linux.txt
 
 aiohappyeyeballs==2.6.1
-aiohttp==3.13.3
+aiohttp==3.13.4
 cffi==2.0.0
-cryptography==42.0.5
+cryptography==46.0.6
 frozenlist==1.7.0
 immutables==0.21
 MarkupSafe==2.1.3

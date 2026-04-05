@@ -3,7 +3,7 @@
 # wheels for python arch x86_64
 
 aioesphomeapi==42.4.0
-aiohttp==3.13.2
+aiohttp==3.13.4
 annotatedyaml==1.0.2
 apischema==0.19.0
 audioop_lts==0.2.1
@@ -17,12 +17,12 @@ bluetooth_data_tools==1.28.4
 brotli==1.2.0
 cached_ipaddress==1.0.1
 caio==0.9.24
-cbor2==5.7.1
+cbor2==5.9.0
 cffi==2.0.0
 ciso8601==2.3.3
 convertertools==1.1.0
 coverage==7.13.0
-cryptography==46.0.2
+cryptography==46.0.6
 dbus_fast==2.44.5
 deebot_client==16.3.0
 ### DTLSSocket==0.1.19          # pip wheel fails to cross compile, use python/dtlssocket
@@ -59,7 +59,7 @@ rpds_py==0.26.0
 scipy==1.16.3
 simplejson==3.20.2
 sqlalchemy==2.0.41
-ujson==5.11.0
+ujson==5.12.0
 ulid_transform==1.5.2
 uv==0.9.6
 websockets==15.0.1
