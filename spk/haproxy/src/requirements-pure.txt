@@ -7,7 +7,7 @@ itsdangerous==2.2.0
 blinker==1.9.0
 
 # requests and dependencies
-requests==2.32.3
+requests==2.33.0
 urllib3==1.26.20
 idna==3.10
 charset_normalizer==3.4.2
