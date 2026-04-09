@@ -22,7 +22,7 @@ cffi==2.0.0
 ciso8601==2.3.3
 convertertools==1.1.0
 coverage==7.13.0
-cryptography==46.0.2
+cryptography==46.0.6
 dbus_fast==2.44.5
 ### deebot_client==16.3.0       not available for aarch64, 'ecovacs' component not supported
 ### DTLSSocket==0.1.19          # pip wheel fails to cross compile, use python/dtlssocket

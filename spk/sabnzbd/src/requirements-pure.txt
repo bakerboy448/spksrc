@@ -32,7 +32,7 @@ python_dateutil==2.9.0.post0
 pytz==2025.2
 rarfile==4.2
 rebulk==3.2.0
-requests==2.32.5
+requests==2.33.0
 requests_oauthlib==2.0.0
 #setuptools==80.9.0             ==> python312
 sgmllib3k==1.0.0
