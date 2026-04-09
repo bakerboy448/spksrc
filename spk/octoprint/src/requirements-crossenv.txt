@@ -9,7 +9,7 @@ pydantic_core==2.41.5
 PyYAML==6.0.3
 regex==2025.11.3
 sgmllib3k==1.0.0
-tornado==6.5.2
+tornado==6.5.5
 watchdog==4.0.2
 wrapt==1.17.3
 zeroconf==0.136.2
