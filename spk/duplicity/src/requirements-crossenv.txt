@@ -3,7 +3,7 @@
 bcrypt==4.3.0
 cffi==1.17.1
 charset_normalizer==3.4.2
-cryptography==43.0.3
+cryptography==46.0.7
 #duplicity                          ==> python/duplicity
 lxml==5.4.0                         # Downgrade from 6.0.0 to build
 msgpack_python==0.5.6
