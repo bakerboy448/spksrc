@@ -17,7 +17,7 @@ packaging==26.0
 python_dateutil==2.9.0.post0
 quantiphy==2.21
 referencing==0.37.0
-requests==2.32.5
+requests==2.33.0
 ruamel.yaml==0.19.1
 #six==1.17.0                              ==> python312
 typing_extensions==4.15.0
