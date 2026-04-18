@@ -17,7 +17,7 @@ chardet==5.2.0
 clint==0.5.1
 debtcollector==3.0.0
 dropbox==12.0.2
-ecdsa==0.19.1
+ecdsa==0.19.2
 fasteners==0.19
 gdata_python3==3.0.1
 google_api_core==2.25.1
@@ -65,7 +65,7 @@ positional==1.2.1
 prettytable==0.7.2
 proto_plus==1.26.1
 ptyprocess==0.7.0
-pyasn1==0.6.1
+pyasn1==0.6.3
 pyasn1_modules==0.4.2
 pycparser==2.22
 PyDrive2==1.21.3
@@ -83,7 +83,7 @@ rackspace_auth_openstack==1.3
 rackspace_novaclient==2.1
 rax_default_network_flags_python_novaclient_ext==0.4.0
 rax_scheduled_images_python_novaclient_ext==0.3.1
-requests==2.32.4
+requests==2.33.0
 requests_oauthlib==2.0.0
 requests_toolbelt==1.0.0
 rfc3986==2.0.0
